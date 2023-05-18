@@ -4,7 +4,7 @@
 
 <h1 align="center">Satya Prakash nayak</h1>
 
-<p align="center">A Full Stack Deveeloper Enthusiast</p>
+<p align="center">A Full Stack Developer Enthusiast</p>
 
 <p align="center">
   <a aria-label="npm package" href="https://www.npmjs.com/package/@primer/react">
