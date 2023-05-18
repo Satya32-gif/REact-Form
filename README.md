@@ -4,7 +4,7 @@
 
 <h1 align="center">Satya Prakash nayak</h1>
 
-<p align="center">A React implementation of GitHub's Primer Design System</p>
+<p align="center">A Full Stack Deveeloper Enthusiast</p>
 
 <p align="center">
   <a aria-label="npm package" href="https://www.npmjs.com/package/@primer/react">
@@ -22,33 +22,16 @@
   </a>
 </p>
 
-## Documentation
+## About Me
 
-Our documentation site lives at [primer.style/react](https://primer.style/react). You'll be able to find detailed documentation on getting started, all of the components, our theme, our principles, and more.
+I am a Full Stack Web Developer Enthusiast   ||   Trainee   ||  Learner from AlmaBetter
 
-## Installation
+I mostly focus on the UX/UI or the Frontend Part of making Dynamic changes to it and attract folks with style 😎
 
-Install @primer/react in your project with your package manager of choice:
 
-```console
-npm install @primer/react
-```
+## Portfolio 
 
-```console
-yarn add @primer/react
-```
+https://satyaprakashnayak.netlify.app/
 
-## Roadmap
 
-You can track our roadmap progress in the [Roadmap Project Board](https://github.com/primer/react/projects/3), see more detail in the [quarterly planning Discussions](https://github.com/primer/react/discussions?discussions_q=%5BRoadmap%5D), and find a [list of all the current epic tracking issues](https://github.com/primer/react/discussions/997).
 
-## Contributing
-
-We love collaborating with folks inside and outside of GitHub and welcome contributions!
-
-> 👉 See [the contributing docs](contributor-docs/CONTRIBUTING.md) for more info on code style, testing, coverage, and troubleshooting.
-
-## New Component Proposals
-
-We welcome and encourage new component proposals from internal GitHub teams! Our best work comes from collaborating directly with the teams using Primer React Components in their projects. If you'd like to kick off a new component proposal, please submit an issue using the [component proposal issue template](https://github.com/primer/react/issues/new?template=new-component-proposal.md) and we will get in touch!
-# REact-Form
