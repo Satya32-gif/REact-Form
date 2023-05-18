@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300px" src="https://user-images.githubusercontent.com/4608155/127241386-f11da52d-00d9-4366-b01c-6f4c1ebcf7f2.png">
+  <img width="300px" src="[https://user-images.githubusercontent.com/4608155/127241386-f11da52d-00d9-4366-b01c-6f4c1ebcf7f2.png](https://media.licdn.com/dms/image/D4D03AQEU_ADPrdkDrA/profile-displayphoto-shrink_400_400/0/1680237419760?e=1689811200&v=beta&t=48IpFwzm2QAA4bmfs-NUvdRT7NQEBRkKCOOW2MQ9eWU)">
 </p>
 
 <h1 align="center">Satya Prakash nayak</h1>
